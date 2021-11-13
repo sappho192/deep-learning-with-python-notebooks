@@ -13,6 +13,7 @@ dependencies:
 - graphviz
 - cython
 - testpath<0.4
+- pip
 - pip:
   - tensorflow-gpu
   - keras
